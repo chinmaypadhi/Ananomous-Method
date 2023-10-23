@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Ananomous deligate\Ananomous deligate\bin\Debug\Ananomous deligate.exe.config
+C:\Users\Asus\source\repos\Ananomous deligate\Ananomous deligate\bin\Debug\Ananomous deligate.exe
+C:\Users\Asus\source\repos\Ananomous deligate\Ananomous deligate\bin\Debug\Ananomous deligate.pdb
+C:\Users\Asus\source\repos\Ananomous deligate\Ananomous deligate\obj\Debug\Ananomous deligate.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Ananomous deligate\Ananomous deligate\obj\Debug\Ananomous deligate.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Ananomous deligate\Ananomous deligate\obj\Debug\Ananomous deligate.exe
+C:\Users\Asus\source\repos\Ananomous deligate\Ananomous deligate\obj\Debug\Ananomous deligate.pdb
